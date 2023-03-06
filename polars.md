@@ -1,3 +1,5 @@
+![https://github.com/atnibbarry/exam_Polars/blob/master/img/Logo.png](https://github.com/atnibbarry/exam_polars/blob/master/img/logo.png)
+
  ![](file:///C:/Users/Fatoumata%20binta/Downloads/Introduction-to-Pypolars.jpg)
  # **POLARS**
 ### Introduction
