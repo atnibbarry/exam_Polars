@@ -1,6 +1,6 @@
 ![](https://github.com/atnibbarry/exam_Polars/blob/a7159fce637ddb2089ecf15c195538ddf0fab575/img/Logo.png)
 
- ![](https://github.com/atnibbarry/exam_polars/blob/e36fc02280ba5f0c1a4336d3edd35f79e58337c2/img/introduction-to-pypolars.jpg)
+![](https://github.com/atnibbarry/exam_Polars/blob/4017af82c29388ef70ede69c383c62d7854914cf/img/Introduction-to-Pypolars.jpg)
  # **POLARS**
 ### Introduction
 [Polars](https://pola-rs.github.io/polars-book/user-guide/introduction.html) is a lightning fast library that: utilizes all available cores on your machine, optimizes queries to reduce unneeded work/memory allocations, handles [datasets](https://datascientest.com/dataset-definition) much larger than your available RAM, has an [API](https://www.redhat.com/fr/topics/api/what-are-application-programming-interfaces) that is consistent and predictable Has a strict schema (data-types should be known before running the query). 
