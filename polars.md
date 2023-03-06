@@ -1,7 +1,22 @@
-![](https://github.com/atnibbarry/exam_Polars/blob/a7159fce637ddb2089ecf15c195538ddf0fab575/img/Logo.png)
 
 ![](https://github.com/atnibbarry/exam_Polars/blob/4017af82c29388ef70ede69c383c62d7854914cf/img/Introduction-to-Pypolars.jpg)
  # **POLARS**
+### Content 
+1. [Introduction](#introduction)
+1. [Comparison with Pandas](#comparison-with-pandas) 
+3. [Installation ](#installation)
+4. [Polars Expressions](#polars-expressions)
+
+    * [Expression Contexts](#expression-contexts) 
+    * [Numpy Interop](#numpy-interop)
+6. [Pratical use case  ](#practical-use-cases)
+
+    * [read & write](#read--write)
+    * [selecting & data](#selecting-data)
+    * [data handling](#data-handling)
+    * [combining data with concat and join](#combining-data-with-concat-and-join)
+7. [To go further](#to-go-further) 
+
 ### Introduction
 [Polars](https://pola-rs.github.io/polars-book/user-guide/introduction.html) is a lightning fast library that: utilizes all available cores on your machine, optimizes queries to reduce unneeded work/memory allocations, handles [datasets](https://datascientest.com/dataset-definition) much larger than your available RAM, has an [API](https://www.redhat.com/fr/topics/api/what-are-application-programming-interfaces) that is consistent and predictable Has a strict schema (data-types should be known before running the query). 
 ### Comparison with Pandas
