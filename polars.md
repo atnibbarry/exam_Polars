@@ -1,5 +1,6 @@
 
 ![](https://github.com/atnibbarry/exam_Polars/blob/4017af82c29388ef70ede69c383c62d7854914cf/img/Introduction-to-Pypolars.jpg)
+       <small><center>*By Fatoumata Binta BARRY*</center></small>  
  # **POLARS**
 ### Content 
 1. [Introduction](#introduction)
